@@ -1,5 +1,5 @@
 {
-  "name": "elevenlabs-conversational-ai",
+  "name": "llms-conversational-ai",
   "version": "0.1.0",
   "private": true,
   "scripts": {
